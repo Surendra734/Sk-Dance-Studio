@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://surendra734.github.io/Sk-Dance-Studio/sitemap.xml
